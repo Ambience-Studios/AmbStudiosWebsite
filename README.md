@@ -1,2 +1,3 @@
-# AmbStudiosWebsite
-An Ambience Studios Website.
+# Ambience Studios Website
+## Designed by:
+   Eli Bessen
