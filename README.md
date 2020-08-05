@@ -1,4 +1,5 @@
 # Ambience Studios Website
-A wesite using React.js, SCSS and JSX
+A website using React.js, SCSS and JSX to develop and design an interactive website 
+
 ## Designed by:
-   Eli Bessen & Elijah Rieger
+Eli Bessen & Elijah Rieger
