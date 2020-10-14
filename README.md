@@ -1,8 +1,12 @@
-# Ambience Studios Website
-A website using React.js, SCSS and JSX to develop and design an interactive website built with Firebase
+# Ambience Studios Website ![License](https://img.shields.io/badge/license-MIT-brightgreen)
+A website using React.js, CSS and JS to develop and design an interactive website built with Firebase
 
-## Important
-Once finished, push into the `pre-release` branch. Once the next release of the website is ready then merge into master and auto deploy
+## Designed by
+> Eli Bessen & Elijah Rieger
 
-## Designed by:
-Eli Bessen & Elijah Rieger
+# Packages
+* [React](https://reactjs.org/)
+* [Firebase](https://firebase.google.com/)
+
+# License
+[MIT](https://github.com/Ambience-Studios/AmbStudiosWebsite/blob/master/LICENSE)
