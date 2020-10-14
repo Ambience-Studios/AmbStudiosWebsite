@@ -1,5 +1,5 @@
 # Ambience Studios Website ![License](https://img.shields.io/badge/license-MIT-brightgreen)
-A website using React.js, CSS and JS to develop and design an interactive website built with Firebase
+A website using React, CSS and JS to develop and design an interactive website built with Firebase
 
 # Packages
 * [React](https://reactjs.org/)
