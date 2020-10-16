@@ -9,4 +9,4 @@ A website using React, CSS and JS to develop and design an interactive website b
 [MIT](https://github.com/Ambience-Studios/AmbStudiosWebsite/blob/master/LICENSE)
 
 ## Designed by
-> Eli Bessen & Elijah Rieger
+> Eli B & Elijah R
